@@ -5,6 +5,6 @@ Computer science student at Karlstad University. I like building things I actual
 Some of what I'm working on:
 
 - **[homelab](https://github.com/kholterberg/homelab)** – a Proxmox server at home where I practise networking, self-hosting and security, with write-ups for each step
-- **[Kokbok](https://github.com/kholterberg/Kokbok)** – a recipe scraper and shopping list app, self-hosted in the homelab
+- **[RecipeHub](https://github.com/kholterberg/recipehub)** – a recipe scraper and shopping list app, self-hosted in the homelab
 
 More at **[kholterberg.dev](https://kholterberg.dev)**
